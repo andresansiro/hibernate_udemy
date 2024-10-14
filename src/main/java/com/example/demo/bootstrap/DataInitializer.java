@@ -1,6 +1,6 @@
 package com.example.demo.bootstrap;
 
-import com.example.demo.domain.Book;
+import com.example.demo.domain.mappedsuperclass.Book;
 import com.example.demo.repositories.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
